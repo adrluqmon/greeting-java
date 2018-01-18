@@ -1,0 +1,15 @@
+
+language: java
+
+jdk:
+  - oraclejdk7
+  - oraclejdk8
+  
+   
+notifications:
+  email:
+    recipients:
+    - adrluqmon@alum.us.es
+
+    on_success: always
+    on_failure: always
